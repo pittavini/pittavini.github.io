@@ -1,7 +1,7 @@
 # About
 
-This is the data for Giuseppe Pittavini's [blog](http://jasonrudolph.com/blog "http://jasonrudolph.com/blog") and [website](http://jasonrudolph.com "http://jasonrudolph.com").
-I use [Jekyll](http://github.com/mojombo/jekyll) to transform the content of this repo into the static site hosted at [jasonrudolph.com](http://jasonrudolph.com "http://jasonrudolph.com").
+This is the data for Giuseppe Pittavini's [blog](http://pittavini.com/blog "http://pittavini.com/blog") and [website](http://pittavini.com "http://pittavini.com").
+I use [Jekyll](http://github.com/mojombo/jekyll) to transform the content of this repo into the static site hosted at [pittavini.com](http://pittavini.com "http://pittavini.com").
 
 # License
 
