@@ -3,6 +3,10 @@
 This is the data for Giuseppe Pittavini's [blog](http://pittavini.com/blog "http://pittavini.com/blog") and [website](http://pittavini.com "http://pittavini.com").
 I use [Jekyll](http://github.com/mojombo/jekyll) to transform the content of this repo into the static site hosted at [pittavini.com](http://pittavini.com "http://pittavini.com").
 
+# Credit
+
+This is a straight copy of Jason Rudolph's [blog](http://jasonrudolph.com)
+
 # License
 
 The **content** of the site (i.e., blog posts and page content) is licensed under a [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/): you may use it, but you must give attribution.
